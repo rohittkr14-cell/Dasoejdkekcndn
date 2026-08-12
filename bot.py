@@ -21,7 +21,7 @@ def keep_alive():
     t.daemon = True
     t.start()
 
-TOKEN = "8726582370:AAFJbakEg8Vqju_cLm54vUklW3IRcq3i4_w"
+TOKEN = "8726582370:AAFuaYEwsdUEdflaHxzd-XUCT2O6_Xo8fy8"
 bot = telebot.TeleBot(TOKEN)
 
 # Main Super Admin ID
